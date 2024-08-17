@@ -28,3 +28,15 @@ tags = ["baba-is-you"]
 {{< /admonition >}}
 
 ___
+
+## Level 01: Where Do I Go?
+
+{{< figure src="/images/overworld-lv1.png" >}}
+
+**難易度**: ☆
+
+{{< admonition type=tip title="提示 💡" open=false >}}
+你有注意到 **Flag**、**Is** 和 **Win** 這些單詞是分開的嗎？
+{{< /admonition >}}
+
+___
