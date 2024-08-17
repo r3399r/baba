@@ -1,5 +1,4 @@
-baseURL = "https://r3399r.github.io/baba"
-canonifyURLs = true
+baseURL = "https://babaisyouhint.celestialstudio.net/"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
