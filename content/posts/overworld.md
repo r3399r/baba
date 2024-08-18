@@ -13,7 +13,7 @@ tags = ["baba-is-you"]
 
 ## Level 00
 
-{{< figure src="/images/overworld-lv0.png" >}}
+{{< figure src="/images/overworld-lv00.png" >}}
 
 **難易度**: 無
 
@@ -31,12 +31,50 @@ ___
 
 ## Level 01: Where Do I Go?
 
-{{< figure src="/images/overworld-lv1.png" >}}
+{{< figure src="/images/overworld-lv01.png" >}}
 
 **難易度**: ☆
 
 {{< admonition type=tip title="提示 💡" open=false >}}
 你有注意到 **Flag**、**Is** 和 **Win** 這些單詞是分開的嗎？
+{{< /admonition >}}
+
+___
+
+## Level 02: Now What is This?
+
+{{< figure src="/images/overworld-lv02.png" >}}
+
+**難易度**: ☆
+
+這一關看起來是不是很奇怪呢？也許你不應該假設這關該長什麼樣子。例如，什麼是 **You**？這意味著什麼呢？
+
+{{< admonition type=tip title="提示 💡" open=false >}}
+跟第 01 關比較一下，這兩關之間有什麼改變嗎？
+{{< /admonition >}}
+
+
+___
+
+## Level 03: Out of Reach
+
+{{< figure src="/images/overworld-lv03.png" >}}
+
+**難易度**: ☆☆
+
+**新物件**：名詞 **Water**，應該很明顯。屬性 **Sink**。
+
+嘗試讓 **Baba** 穿過水面。發生了什麼？他們踩到的那塊水又發生了什麼變化？這告訴你關於 **Sink** 規則代表什麼？
+
+此外，你可能有注意到，有些規則似乎無法更改，這是正常的。事實上，大多數的關卡只允許你編輯一部分規則。面對每一個關卡時，建議先弄清哪些規則是固定的，哪些是可以更改的。
+
+
+{{< admonition type=tip title="提示 💡" open=false >}}
+你是否對如何完成這一關做出了某種假設，比如與 **Flag** 有關的假設？也許這個假設是錯的。
+{{< /admonition >}}
+
+{{< admonition type=tip title="提示 💡💡" open=false >}}
+要讓 **Baba** 碰到 **Flag** 也許是個錯誤的假設。
 {{< /admonition >}}
 
 ___
