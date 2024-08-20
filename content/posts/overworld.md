@@ -78,3 +78,20 @@ ___
 {{< /admonition >}}
 
 ___
+
+## Level 04: Still Out of Reach
+
+{{< figure src="/images/overworld-lv04.png" >}}
+
+**難易度**: ☆
+
+**新物件**：名詞 **Skull**，那個紅色的東西。屬性 **Defeat**。
+
+把 **Baba** 放到任何一個 **Skull** 上。**Baba** 會發生什麼？**Skull** 會發生什麼？其他物件能與 **Skull** 重疊嗎？重疊後那個物件會發生什麼變化？經過這些測試，**Defeat** 代表什麼意思呢？
+
+
+{{< admonition type=tip title="提示 💡" open=false >}}
+有一條規則使得這關不可能過關。也許你可以打破這條規則？
+{{< /admonition >}}
+
+___
