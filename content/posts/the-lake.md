@@ -31,8 +31,8 @@ __
 
 ## The Lake
 
-{{< figure src="/images/the-lake-1.png" title=It’s the only place you can go. >}}
-{{< figure src="/images/the-lake-2.png" title=Initial Lake Map >}}
+{{< figure src="/images/the-lake-1.png" title="It’s the only place you can go." >}}
+{{< figure src="/images/the-lake-2.png" title="Initial Lake Map" >}}
 
 Each world has a dozen or so puzzles, but you don’t need to solve all of them. You only need to clear 8 of the 15 puzzles in The Lake. If you want to complete the world, but some of the puzzles give you trouble, you can always leave and come back. I recommend completing through level 11 on your first visit so you understand all the concepts you need. You might need to return later for levels 12-13 and the extras.
 
