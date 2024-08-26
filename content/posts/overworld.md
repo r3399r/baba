@@ -115,3 +115,37 @@ ___
 {{< /admonition >}}
 
 ___
+
+## Level 06: Off Limits
+
+{{< figure src="/images/overworld-lv06.png" >}}
+
+**難易度**: ☆
+
+{{< admonition type=tip title="提示 💡" open=false >}}
+Is there a rule that says that whatever is You must only have one instance?
+{{< /admonition >}}
+
+___
+
+## Level 07: Grass Yard
+
+{{< figure src="/images/overworld-lv07.png" >}}
+
+**難易度**: ☆☆
+
+**新物件**：noun **Grass**. We’ve seen it before but this is the first level with access to the noun. We’re going to see a lot of objects before we get access to the nouns. It doesn’t really matter.
+
+{{< admonition type=tip title="提示 💡" open=false >}}
+**Wall** is what?
+{{< /admonition >}}
+
+___
+
+## World Complete!
+
+Nothing is really gained from completing the overworld except access to two other paths. One of them leads to a locked gate, which requires flowers to open. You can’t go there until clearing a few worlds. So, you have to take the upper path to The Lake.
+
+{{< figure src="/images/overworld-3.png" >}}
+
+This gate requires three flowers, whatever those are.
