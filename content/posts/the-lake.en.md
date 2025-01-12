@@ -38,7 +38,7 @@ Each world has a dozen or so puzzles, but you don’t need to solve all of them.
 
 Notice also how the map is divided into three distinct sections: bottom, top, and right. Each section deals with a different mechanic. The bottom section teaches the operator And; the top teaches Open and Shut; and the right section deals with transformations.
 
-## Lake 01: Icy Waters
+## 01: Icy Waters
 
 {{< figure src="/images/the-lake-lv01.png" >}}
 
@@ -54,7 +54,7 @@ What can you do with that extra "Wall"?
 
 ___
 
-## Lake 02: Turns
+## 02: Turns
 
 {{< figure src="/images/the-lake-lv02.png" >}}
 
@@ -74,7 +74,7 @@ There are three potential obstacles: the Rock, the Star, and the Skull. Which on
 
 ___
 
-## Lake 03: Affection
+## 03: Affection
 
 {{< figure src="/images/the-lake-lv03.png" >}}
 
@@ -94,7 +94,7 @@ Keke seems to be stuck on its path. Is there any way that can be changed?
 
 ___
 
-## Lake 04: Pillar Yard
+## 04: Pillar Yard
 
 {{< figure src="/images/the-lake-lv04.png" >}}
 
@@ -112,7 +112,7 @@ Do you recall which objects cannot interact with an object that is Defeat?
 
 ___
 
-## Lake 05: Brick Wall
+## 05: Brick Wall
 
 {{< figure src="/images/the-lake-lv05.png" >}}
 
@@ -126,7 +126,7 @@ Baba will never get into the pen with the Flag. Baba will never collide with the
 
 ___
 
-## Lake 06: Lock
+## 06: Lock
 
 {{< figure src="/images/the-lake-lv06.png" >}}
 
@@ -142,7 +142,7 @@ It is very natural that Key is Open and Door is Shut. Must this always be the ca
 
 ___
 
-## Lake 07: Novice Locksmith
+## 07: Novice Locksmith
 
 {{< figure src="/images/the-lake-lv07.png" >}}
 
@@ -158,7 +158,7 @@ Have you made an assumption that both doors must be removed in the same way?
 
 ___
 
-## Lake 08: Locked In
+## 08: Locked In
 
 {{< figure src="/images/the-lake-lv08.png" >}}
 
@@ -170,7 +170,7 @@ How have you created all your statements so far? Have you convinced yourself thi
 
 ___
 
-## Lake 09: Changeless
+## 09: Changeless
 
 {{< figure src="/images/the-lake-lv09.png" >}}
 
@@ -186,7 +186,7 @@ The statement [X] is [X] will always overrule [X] is [Y], so long as it exists.
 
 ___
 
-## Lake 10: Two Doors
+## 10: Two Doors
 
 {{< figure src="/images/the-lake-lv10.png" >}}
 
@@ -206,7 +206,7 @@ You might always imagine that an Open object must always be brought to a Shut ob
 
 ___
 
-## Lake 11: Jelly Throne
+## 11: Jelly Throne
 
 {{< figure src="/images/the-lake-lv11.png" >}}
 
@@ -222,7 +222,7 @@ An object does not carry over properties once it is transformed into another obj
 
 __
 
-## Lake 12: Crab Storage
+## 12: Crab Storage
 
 {{< figure src="/images/the-lake-lv12.png" >}}
 
@@ -252,7 +252,7 @@ The initial state of Lake 09 should tell you something about how to solve this p
 
 ___
 
-## Lake 13: Burglary
+## 13: Burglary
 
 **難易度**: ☆☆☆
 
@@ -270,7 +270,7 @@ If you can't think how you will escape the pen, imagine what would happen if eve
 
 ___
 
-## Lake Extra 1: Submerged Ruins
+## Extra 1: Submerged Ruins
 
 {{< figure src="/images/the-lake-extra1.png" >}}
 
@@ -292,7 +292,7 @@ First get in the pen with the Flag, and then create the win condition.
 
 ___
 
-## Lake Extra 2: Sunken Temple
+## Extra 2: Sunken Temple
 
 {{< figure src="/images/the-lake-extra2.png" >}}
 
