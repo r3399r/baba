@@ -147,3 +147,211 @@ Why is "Baba" on your side of the river?
 {{< /admonition >}}
 
 ___
+
+## 07: Catch the Thief!
+
+{{< figure src="/images/solitary-island-lv07.png" >}}
+
+**難易度**: ☆☆
+
+{{< admonition type=tip title="提示 💡" open=false >}}
+Who is going to cross the Skulls?
+{{< /admonition >}}
+
+{{< admonition type=tip title="提示 💡💡" open=false >}}
+Who is going to push "Win" up two spaces?
+{{< /admonition >}}
+
+___
+
+## 08: Tiny Pond
+
+{{< figure src="/images/solitary-island-lv08.png" >}}
+
+**難易度**: ☆☆☆☆
+
+This is a tricky one, but don’t skip it. You’re going to want to know the tricks you’ll learn from this level.
+
+{{< admonition type=tip title="提示 💡" open=false >}}
+How will you get "Win" out of the pond? How many pieces of Water need to be removed?
+{{< /admonition >}}
+
+{{< admonition type=tip title="提示 💡💡" open=false >}}
+You start with three objects which can potentially be You. Do you need that many?
+{{< /admonition >}}
+
+{{< admonition type=tip title="提示 💡💡💡" open=false >}}
+If **You** is multiple objects, you can afford to lose one.
+{{< /admonition >}}
+
+___
+
+## 09: Research Facility
+
+{{< figure src="/images/solitary-island-lv09.png" >}}
+
+**難易度**: ☆☆☆
+
+**新物件**：noun **Bolt**
+
+{{< admonition type=tip title="提示 💡" open=false >}}
+Imagine the rule **Bolt is Melt** did not exist. How would you solve this level?
+{{< /admonition >}}
+
+{{< admonition type=tip title="提示 💡💡" open=false >}}
+The existence of **Bolt is Melt** means Baba must be in a very specific place at a very specific time. Why?
+{{< /admonition >}}
+
+___
+
+## 10: Wireless Connection
+
+{{< figure src="/images/solitary-island-lv10.png" >}}
+
+**難易度**: ☆☆☆
+
+**新物件**：noun **Bog** - like **Water** and **Lava**, another liquid obstacle, this time puke green.
+
+{{< admonition type=tip title="提示 💡" open=false >}}
+Something needs to be **Win**. What will the sentence which makes that rule look like?
+{{< /admonition >}}
+
+{{< admonition type=tip title="提示 💡💡" open=false >}}
+Which exact words need to be added to the sentence as it stands initially in order to make **___ is Win**?
+{{< /admonition >}}
+
+___
+
+## 11: Prison
+
+{{< figure src="/images/solitary-island-lv11.png" >}}
+
+**難易度**: ☆☆☆☆☆
+
+This level was added to the game after the initial release. Before, a different level stood in its place, but apparently the trick was too difficult and so this level was added to help ease you into learning the trick. If it’s too difficult for you now, feel free to come back later. It is not necessary to learn it to get the normal ending of the game.
+
+{{< admonition type=tip title="提示 💡" open=false >}}
+Don't overthink it - the only way out of the pen is to break up **Wall is Stop**. Therefore, it must be possible.
+{{< /admonition >}}
+
+{{< admonition type=tip title="提示 💡💡" open=false >}}
+The very first thing you should try doing is pushing Keke around. Why can't you? What happens instead?
+{{< /admonition >}}
+
+___
+
+## Extra 1: Boiling River
+
+{{< figure src="/images/solitary-island-extra1.png" >}}
+
+**難易度**: ☆☆
+
+Based on Island 02. The solution for this level is something you can actually do in Island 02, but it’s likely you didn’t notice it. You’re going to have to notice it now.
+
+{{< admonition type=tip title="提示 💡" open=false >}}
+It seems redundant to have two separate statements about Baba.
+{{< /admonition >}}
+
+___
+
+## Extra 2: Bridges?
+
+{{< figure src="/images/solitary-island-extra2.png" >}}
+
+**難易度**: ☆☆
+
+Based on Island 03 and Island 04. Similar puzzle, wildly different solution from the other two.
+
+{{< admonition type=tip title="提示 💡" open=false >}}
+Which exact objects in this level will **Sink** into the Water? Which ones won't?
+{{< /admonition >}}
+
+___
+
+## Extra 3: Tiny Isle
+
+{{< figure src="/images/solitary-island-extra3.png" >}}
+
+**難易度**: ☆☆☆☆☆
+
+Similar to Island 08. The solution to this extra level is possible in the original one, but it’s likely you didn’t think of it then.
+
+{{< admonition type=tip title="提示 💡" open=false >}}
+What exactly has changed between Island 08 and this level?
+{{< /admonition >}}
+
+{{< admonition type=tip title="提示 💡💡" open=false >}}
+How many tiles of Water need to be removed to get "Win" out of the pond? What rule would you need to do that? Is that even possible?
+{{< /admonition >}}
+
+{{< admonition type=tip title="提示 💡💡💡" open=false >}}
+How many tiles of Water need to be removed to get something into the pond?
+{{< /admonition >}}
+
+___
+
+## Extra 4: Dim Signal
+
+{{< figure src="/images/solitary-island-extra4.png" >}}
+
+**難易度**: ☆☆
+
+**新物件**：noun **Ice**. We’ve seen actual tiles of Ice in other levels, but this is the first time we see the word... and there’s no actual tiles of Ice in the level.
+
+You’ll notice I gave this level fewer difficulty stars than Island 10. That’s because I believe the logical leap required to solve this one is not as large, once you already know the solution to Island 10. Sometimes extra levels are like that, but not often. Enjoy the break from the tough levels.
+
+{{< admonition type=tip title="提示 💡" open=false >}}
+Look at your solution to Island 10. Were there any leftover pieces, and if so, how many?
+{{< /admonition >}}
+
+{{< admonition type=tip title="提示 💡💡" open=false >}}
+How will your win condition look different from than of Island 10?
+{{< /admonition >}}
+
+{{< admonition type=tip title="提示 💡💡💡" open=false >}}
+What would you need in order to use your Robot or Cog twice?
+{{< /admonition >}}
+
+___
+
+## Extra 5: Dungeon
+
+{{< figure src="/images/solitary-island-extra5.png" >}}
+
+**難易度**: ☆☆
+
+Yes, the difficulty rating is correct. If you solved Island 11, the logical leap needed to solve this one is small.
+
+{{< admonition type=tip title="提示 💡" open=false >}}
+If there is no "Push" available, how can you move both Baba and Keke?
+{{< /admonition >}}
+
+___
+
+## Extra 6: Evaporating River
+
+{{< figure src="/images/solitary-island-extra6.png" >}}
+
+**難易度**: ☆☆☆☆☆
+
+Similar to Island 02 and Island Extra 01, but with a greater twist.
+
+{{< admonition type=tip title="提示 💡" open=false >}}
+Do you have access to any rules on the edges of the level? How can you change them?
+{{< /admonition >}}
+
+{{< admonition type=tip title="提示 💡💡" open=false >}}
+Why are there three skulls in a row by the word "Flag"? Has this arrangement given you an assumption on how you will approach the word "Flag"?
+{{< /admonition >}}
+
+{{< admonition type=tip title="提示 💡💡💡" open=false >}}
+How will you cross the Water from the left? Is it the same way you will cross back?
+{{< /admonition >}}
+
+___
+
+## World Complete!
+
+Once you clear this world, two paths open to you. The upper path leads to the third world, Temple Ruins. The lower path leads to the fourth world, Forest of Fall. While you can certainly clear the later worlds in whichever order you like, I really don’t recommend trying to do these two out of order. You need to understand the concepts from the Ruins in order to get through Forest of Fall. Not only that, but the Ruins is much, much easier.
+
+In the meantime, do these hints work? Anything spoil too much? Do the hints actually help or are they too vague? Maybe you thought of a really good hint yourself? Send them to me. (Don’t comment them below.) You can find me @keyofw on Twitter or keyofw on Reddit. DM me anytime.
