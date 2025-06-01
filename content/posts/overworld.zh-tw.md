@@ -1,6 +1,6 @@
 +++
 title = 'Overworld'
-date = 2024-08-17T09:34:58+08:00
+date = 2025-06-02T01:01:02+08:00
 tags = ["baba-is-you"]
 +++
 
@@ -123,7 +123,7 @@ ___
 **難易度**: ☆
 
 {{< admonition type=tip title="提示 💡" open=false >}}
-Is there a rule that says that whatever is You must only have one instance?
+是否有一條規則說 **You** 只能是一個東西?
 {{< /admonition >}}
 
 ___
@@ -134,18 +134,16 @@ ___
 
 **難易度**: ☆☆
 
-**新物件**：noun **Grass**. We’ve seen it before but this is the first level with access to the noun. We’re going to see a lot of objects before we get access to the nouns. It doesn’t really matter.
+**新物件**：名詞 **Grass**，我們之前見過它，但這是第一次接觸到這個名詞。我們會在實際接觸到物件的名詞之前看到很多物件。不過，這其實沒那麼重要。
 
 {{< admonition type=tip title="提示 💡" open=false >}}
-**Wall** is what?
+**Wall** 是什麼?
 {{< /admonition >}}
 
 ___
 
 ## World Complete!
 
-Nothing is really gained from completing the overworld except access to two other paths. One of them leads to a locked gate, which requires flowers to open. You can’t go there until clearing a few worlds. So, you have to take the upper path to The Lake.
+完成外部世界其實沒獲得什麼寶物，只是能解鎖另外兩條路。其中一條通往一扇上鎖的門，需要花朵才能打開。在通過幾個世界之前，你無法前往那裡。所以，你得走上方的路，前往湖泊區（The Lake）。
 
-{{< figure src="/images/overworld-3.png" >}}
-
-This gate requires three flowers, whatever those are.
+{{< figure src="/images/overworld-3.png" title=這道門需要三朵花才能打開，先不管那是什麼花。 >}}

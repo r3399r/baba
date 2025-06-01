@@ -1,6 +1,6 @@
 +++
 title = 'Solitary Island'
-date = 2025-01-12T09:44:58+08:00
+date = 2025-06-02T01:01:04+08:00
 tags = ["baba-is-you"]
 +++
 

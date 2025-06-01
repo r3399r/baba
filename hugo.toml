@@ -93,35 +93,3 @@ defaultContentLanguageInSubdir = true
       name = "分类"
       url = "/categories/"
       title = ""
-
-  [languages.en]
-    weight = 3
-    title = "Baba is You - Hint"
-    languageCode = "en"
-    languageName = "English"
-    [languages.en.params.header.title]
-      name = "Baba is You - Hint"
-    [[languages.en.menu.main]]
-      weight = 1
-      identifier = "posts"
-      pre = ""
-      post = ""
-      name = "Posts"
-      url = "/posts/"
-      title = ""
-    [[languages.en.menu.main]]
-      weight = 2
-      identifier = "tags"
-      pre = ""
-      post = ""
-      name = "Tags"
-      url = "/tags/"
-      title = ""
-    [[languages.en.menu.main]]
-      weight = 3
-      identifier = "categories"
-      pre = ""
-      post = ""
-      name = "Categories"
-      url = "/categories/"
-      title = ""
