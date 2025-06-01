@@ -10,7 +10,7 @@ defaultContentLanguage = 'zh-tw'
 defaultContentLanguageInSubdir = true
 
 # Author config
-[author]
+[params.author]
   name = "Yue Chang"
   email = ""
   link = ""
